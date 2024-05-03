@@ -1,0 +1,17 @@
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\bin\Debug\EntityFramework.dll
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\bin\Debug\EntityFramework.xml
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Form1.resources
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.cache
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Vistas.ActualizarSueldo.resources
+C:\Users\luisa\source\repos\testdevbackjr\Prueba_2\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Vistas.Usuario.resources

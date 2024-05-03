@@ -13,7 +13,7 @@ PRIMARY KEY(userId)
 )
 
 CREATE TABLE empleados(
-userId INT,
+userId INT PRIMARY KEY,
 Sueldo FLOAT,
 FechaIngreso DATE
 CONSTRAINT FK_userId FOREIGN KEY (userId) REFERENCES usuarios(userId)
