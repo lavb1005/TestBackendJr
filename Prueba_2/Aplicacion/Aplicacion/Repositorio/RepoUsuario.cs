@@ -1,4 +1,5 @@
-﻿using Aplicacion.Datos;
+﻿//Se hizo uso de Entity FrameWork para el mapeo de la base de datos
+using Aplicacion.Datos;
 using Interface;
 using System;
 using System.Collections.Generic;
